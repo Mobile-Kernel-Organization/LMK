@@ -5,7 +5,7 @@
 
 **If this very critical vulnerability in our code and it's need to be fixed in next patch, please write directly to email of Sergay Sherbakov:**
 
-[*sergay@mobile-kernel.org*]
+[*sergey@mobile-kernel.org*]
 
 
 ****
